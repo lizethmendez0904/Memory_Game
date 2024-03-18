@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "nickname": "user123",
+    "nombre": "Juan Pérez",
+    "img": "Bear.png",
+    "valor": 1500
+  },
+  {
+    "id": 2,
+    "nickname": "cool_guy",
+    "nombre": "María García",
+    "img": "Camaleon.png",
+    "valor": 2200
+  },
+  {
+    "id": 3,
+    "nickname": "awesome_dude",
+    "nombre": "Carlos Rodríguez",
+    "img": "Cat.png",
+    "valor": 1800
+  },
+  {
+    "id": 4,
+    "nickname": "sunny_girl",
+    "nombre": "Laura Martínez",
+    "img": "Cebra.png",
+    "valor": 2100
+  },
+  {
+    "id": 5,
+    "nickname": "smiley_face",
+    "nombre": "Andrés López",
+    "img": "Cocodrile.png",
+    "valor": 1900
+  },
+  {
+    "id": 6,
+    "nickname": "tech_wizard",
+    "nombre": "Sofía Ruiz",
+    "img": "Dog.png",
+    "valor": 2300
+  },
+  {
+    "id": 7,
+    "nickname": "mastermind",
+    "nombre": "Diego Hernández",
+    "img": "Elephant.png",
+    "valor": 2500
+  },
+  {
+    "id": 8,
+    "nickname": "happy_camper",
+    "nombre": "Ana Sánchez",
+    "img": "Guacamayo.png",
+    "valor": 1700
+  },
+  {
+    "id": 9,
+    "nickname": "gaming_guru",
+    "nombre": "Javier Fernández",
+    "img": "Hippo.png",
+    "valor": 2000
+  },
+  {
+    "id": 10,
+    "nickname": "code_ninja",
+    "nombre": "Elena Gómez",
+    "img": "Jirafa.png",
+    "valor": 2400
+  },
+  {
+    "id": 11,
+    "nickname": "design_maven",
+    "nombre": "Miguel González",
+    "img": "Leon.png",
+    "valor": 2100
+  },
+  {
+    "id": 12,
+    "nickname": "music_lover",
+    "nombre": "Luisa Jiménez",
+    "img": "Monkey.png",
+    "valor": 1800
+  },
+  {
+    "id": 13,
+    "nickname": "coffee_addict",
+    "nombre": "Pedro Pérez",
+    "img": "Pantera.png",
+    "valor": 2200
+  },
+  {
+    "id": 14,
+    "nickname": "bookworm",
+    "nombre": "Carmen Rodríguez",
+    "img": "pavoReal.png",
+    "valor": 1900
+  },
+  {
+    "id": 15,
+    "nickname": "fitness_freak",
+    "nombre": "Roberto Martínez",
+    "img": "Pinguino.png",
+    "valor": 2300
+  },
+  {
+    "id": 16,
+    "nickname": "adventure_seeker",
+    "nombre": "Isabel López",
+    "img": "Rinoceronte.png",
+    "valor": 2000
+  },
+  {
+    "id": 17,
+    "nickname": "art_enthusiast",
+    "nombre": "Antonio Ruiz",
+    "img": "Serpiente.png",
+    "valor": 2500
+  },
+  {
+    "id": 18,
+    "nickname": "traveler",
+    "nombre": "María Hernández",
+    "img": "Tiger.png",
+    "valor": 1700
+  },
+  {
+    "id": 19,
+    "nickname": "nature_lover",
+    "nombre": "Jorge Sánchez",
+    "img": "Tucan.png",
+    "valor": 2100
+  },
+  {
+    "id": 20,
+    "nickname": "foodie",
+    "nombre": "Lucía Fernández",
+    "img": "Turttle.png",
+    "valor": 2400
+  }
+]
